@@ -112,21 +112,3 @@ I provide 3 sandbox websites which are deliberately made vulnerable to SQL injec
    ```
    
 
-## Demo
-Check out these 3 demos, which corresponding to the 3 sandbox websites above, at:
-[https://drive.google.com/drive/folders/1xQdqtv397OW8kj9S2VHwwS_JnYP1SwOg?usp=sharing](https://drive.google.com/drive/folders/1xQdqtv397OW8kj9S2VHwwS_JnYP1SwOg?usp=sharing)
-
-1. Demo 1: Hacking into the site with a simple login form
-2. Demo 2: Trying 5 different SQL injection payloads until success
-3. Demo 3: Hacking into a more complicated website with a lot of animations
-
-**Note: The demonstrations is a little bit slow due to the unstable network connection when the video was recorded.**
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Disclaimer: This software is provided for educational purposes only. The authors and contributors are not responsible for any misuse of the software. Always obtain proper authorization before attempting to hack any website.**
